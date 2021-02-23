@@ -6,7 +6,7 @@ Feel free to ask to add more features, made it for fun. 😅😅
 
 -- Features included --
 
-$ dummy data generator for any database.
-$ simple data entering interface.
-$ php password hashing.
-$ manual query.
+$ dummy data generator for any database.  
+$ simple data entering interface.  
+$ php password hashing.  
+$ manual query.  
